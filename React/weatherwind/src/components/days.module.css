@@ -1,0 +1,11 @@
+.days{
+    display: flex;
+    justify-content: space-around;
+}
+
+.temp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:0.5rem;
+}
